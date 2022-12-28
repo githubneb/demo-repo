@@ -1,0 +1,3 @@
+[submodule "demo-repos"]
+	path = demo-repos
+	url = https://github.com/githubneb/demo-repo.git
